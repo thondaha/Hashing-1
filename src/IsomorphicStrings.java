@@ -2,7 +2,7 @@
 Problem - Given a pattern and a string str, find if str follows the same pattern.
 Approach - I check the pattern matching using two hash maps to ensure a one-to-one, consistent pattern mapping between the strings.
 Time Complexity - O(n)
-Space Complexity - O(1)
+Space Complexity - O(n)
  */
 
 import java.util.HashMap;
